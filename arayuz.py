@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_chroma import Chroma
+from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_ollama import ChatOllama
