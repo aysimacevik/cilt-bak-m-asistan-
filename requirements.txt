@@ -2,5 +2,6 @@ streamlit
 langchain
 langchain-core
 langchain-community
+langchain-huggingface
 chromadb
 sentence-transformers
