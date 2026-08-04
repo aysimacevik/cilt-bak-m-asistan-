@@ -1,0 +1,20 @@
+Cilt Tipleri ve Analiz Yöntemleri Rehberi
+
+1. Cilt Tipleri Nelerdir?
+Cilt yapısı genetik faktörler, hormonal durum ve çevresel etkenlere göre temel olarak 4 gruba ayrılır:
+
+- Kuru Cilt: Doğal nem (sebum) üretimi düşüktür. Genellikle mat görünür, pul pul dökülmeye ve erken kırışmaya eğilimlidir. Gözenekler neredeyse görünmeyecek kadar küçüktür.
+- Yağlı Cilt: Sebum bezleri çok fazla çalışır. Cilt genel olarak parlak ve kalın bir görünüme sahiptir. Gözenekler genişlemiştir ve siyah nokta, akne, sivilce oluşumuna çok uygundur.
+- Karma Cilt: En yaygın cilt tipidir. T bölgesi (alın, burun ve çene) yağlı ve parıl parılken, yanak bölgeleri normal veya kurudur.
+- Hassas Cilt: Dış etkenlere (kozmetikler, hava değişimleri, kimyasallar) karşı aşırı tepki verir. Kızarıklık, yanma, batma ve tahriş olma eğilimi yüksektir.
+
+2. Cilt Tipi Nasıl Analiz Edilir? (Evde Kurulama Testi)
+Bir kişinin kendi cilt tipini evde test etmesi için en güvenilir yöntem "Kurulama Testi"dir:
+1. Yüz nazik ve cildi kurutmayan bir temizleyiciyle yıkanır.
+2. Hiçbir ürün (krem, tonik, serum) sürülmeden 1 saat boyunca cildin kendi haline bırakılması sağlanır.
+3. 1 saatin sonunda bir kağıt mendil (peçete) yüzün farklı bölgelerine (alın, burun, yanaklar) bastırılır.
+- Sonuç Değerlendirmesi:
+  * Tüm bölgelerde yağ lekesi yoksa ve gerginlik hissediliyorsa: Kuru Cilt
+  * Kağıdın neredeyse tüm bölgelerinde yoğun yağ lekeleri çıkıyorsa: Yağlı Cilt
+  * Sadece alın, burun ve çene (T bölgesi) bölgesinde yağlanma var, yanaklar temizse: Karma Cilt
+  * Cilt kızarmış, tahriş olmuş ve geriliyorsa: Hassas Cilt

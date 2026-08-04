@@ -1,0 +1,119 @@
+Skin barrier function
+
+Authors: Dr Jenny SW Yun, Resident Medical Officer, Royal Melbourne Hospital, Melbourne, Australia; A/Prof Rosemary Nixon, Skin Health Institute, Melbourne, Australia. Copy edited by Gus Mitchell. March 2021
+
+Skin as a barrier
+ Skin structures with physical barrier functions
+ Skin (bio)chemistry with barrier functions
+ Skin elements with immune barrier functions
+ Role of vitamins
+ Disturbances
+
+Skin as a barrier
+Skin is the largest organ of the human body and comprises three major layers; epidermis, dermis, and subcutis [see Structure of normal skin].
+
+One vital function of the skin is to form an effective barrier between the organism and the environment. It maintains an ‘inside-outside’ barrier regulating water loss, and an ‘outside-inside’ barrier protecting the organism from external harm, including mechanical, chemical, and microbial.
+
+Epidermal barrier functions
+
+Skin structures with physical barrier functions
+Stratum corneum
+The outermost layer of the epidermis is the stratum corneum, which consists of dead dried-out cells called corneocytes in a bricks-and-mortar arrangement.
+
+‘Bricks-and-mortar’ model of the stratum corneum
+
+A key barrier function of the epidermis is to control
+
+ diffusion of molecules across the skin; transepidermal water loss (TEWL) from inside to outside, and chemicals from the outside environment to inside. Diffusion through the epidermis can be via one of two routes: intracellular through the epidermal lipid matrix, or transcellular across the corneocytes. The rate of diffusion across the stratum corneum is influenced by:
+
+The unique lamellar organisation of the lipid matrix and its interaction with protein components of keratinocytes, including tight junctions and scaffolding proteins
+The diffusion path length which is determined by the thickness of the stratum corneum, numbers of layers of corneocytes, their size, and their cohesion.
+Skin appendages
+Epidermal appendages
+
+Skin barrier functions
+
+Nail
+
+The cuticle between the proximal nail fold and the nail plate provides a waterproof barrier against chemical and microbial entry
+Hair
+
+Holds a layer of warm air against the skin to minimise heat loss
+Is an early-warning detection system on the scalp to prevent minor skin trauma
+Dense hair can protect the epidermis from sun exposure
+Sebaceous glands
+
+Produce oily sebum which:
+Prevents excessive water loss
+Prevents the growth of certain bacteria
+Sweat glands
+
+Thermal regulation
+Maintains skin pH
+Subcutis
+The subcutis is composed predominantly of fat cells (adipocytes). Adipose tissue is responsible for heat production and forms an insulating layer, thereby playing a critical role in thermoregulation. The subcutis also acts as a mechanical barrier by absorbing mechanical shocks applied to the skin (such as a punch), protecting deeper structures including bone.
+
+Skin (bio)chemistry with barrier functions
+pH
+The human skin surface has a normal pH range of 4.5 to 5.5, and the acidity is important in the skin permeability barrier. Enzymes in the stratum corneum including β-glucocerebrosidase and acid sphingomyelinase, function optimally in an acidic environment, and are responsible for the production of ceramides and free fatty acids which affect diffusion through the epidermis. The acid pH also restricts the activity of kallikrein (KLK)-5 and -7, which cleave the extracellular corneodesmosomal proteins important in corneocyte adhesion.
+
+The acidic skin surface, together with an intact stratum corneum, prevents colonisation with pathogens, and supports the normal skin microbiome [see Microorganisms found on the skin].
+
+Filaggrin
+Filaggrin is a specialised structural ‘filament-aggregating protein’ responsible for the structural and mechanical integrity of the stratum corneum. It aggregates keratin
+
+ filaments inside the corneocytes and helps form the cornified cell envelope outside corneocytes. Natural moisturising factors (NMF) are degradation products of filaggrin which contribute to the water-holding capacity and acidic pH of the stratum corneum. Urocanic acid, another breakdown product of filaggrin, is important in protection from UV
+
+ radiation damage.
+
+Melanin
+Melanin is the pigment produced by melanocytes
+
+ in the basal layer of the epidermis and stored in melanosomes. Melanosomes are transferred to keratinocytes where they protect the epidermal cell nucleus against DNA damage by ultraviolet radiation [see Ultraviolet radiation and human health].
+
+Antimicrobial peptides
+Antimicrobial peptides synthesised in the skin by keratinocytes, sebocytes, and sweat glands, have antimicrobial and immunomodulatory effects [see Antimicrobial peptides].
+
+Skin elements with immune barrier functions
+The skin has elements of both the innate
+
+ (nonspecific) and adaptive (specific) immune systems. Immune cells are found in both the epidermis and dermis.
+
+The key epidermal immune cells are the keratinocytes and Langerhans cells. Numerous immune cell types are located in the dermis and include dermal dendritic cells, mast cells, and lymphocytes (T cells, B cells, NK cells) [see Skin immune system].
+
+The role of vitamins in skin barrier function
+Adequate levels of micronutrients such as vitamins are important to maintain the integrity of the skin barrier. Deficiencies and toxicities can disturb the skin barrier function. The table below summarises some roles vitamins play in skin barrier function.
+
+Vitamins required for some skin barrier functions
+Vitamin
+
+Mechanism of action
+
+Vitamin A
+
+Regulates keratinocyte proliferation
+Roles in skin innate immunity
+Vitamin B3 (nicotinamide)
+
+Synthesis of proteins and ceramides important for the skin barrier
+
+Vitamin B7 (biotin)
+
+Role in keratin production
+
+Vitamin D
+
+Role in innate immunity
+Role in keratinocyte differentiation
+Role in filaggrin synthesis
+Disturbances in skin barrier function
+Acquired or genetic disturbances in any of the above barrier functions can result in skin disease or systemic disruption.
+
+For examples on DermNet, see:
+
+Barrier function in atopic dermatitis
+Dry skin
+Ichthyosis
+Albinism
+Vitamin A deficiency
+Vitamin A toxicity.
